@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """<b>Hello
-Please Enter your Telegram Phone Number, to get the APP ID & API HASH from <a href="https://my.telegram.org/apps">Telegram</a></b>
+Please Enter your Telegram Phone Number, to get the APP ID & API HASH from <a href="https://my.telegram.org/apps">Telegram. Made by TeamDaisyX ❤ </a></b>
 
 <i>(note: the phone no. must include the country code and if something goes wrong stop the bot and send /start again.)</i>"""
     AFTER_RECVD_CODE_TEXT = """<b>Now enter the code you received:</b>
